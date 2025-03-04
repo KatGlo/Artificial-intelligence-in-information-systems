@@ -1,7 +1,7 @@
 # Artificial-intelligence-in-information-systems
 Wprowadzenie do sieci neuronowych i głębokiego uczenia, zawierające praktyczne przykłady w Pythonie, implementacje modeli krok po kroku oraz omówienie podstaw teoretycznych.
 
-# Opis
+## Opis
 Tutaj znajduje się zbiór notatników Jupyter przygotowanych w ramach zajęć z przedmiotu **Artificial Intelligence in Information Systems** na Wydziale Informatyki AGH w Krakowie. Każdy z plików zawiera praktyczne przykłady i wyjaśnienia dotyczące różnych zagadnień związanych z uczeniem maszynowym, sieciami neuronowymi oraz interpretowalnością modeli.
 
 ## Spis treści
